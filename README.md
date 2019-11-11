@@ -28,29 +28,29 @@ From the database server where you have installed SQL Server Reporting Services.
 
 Open the browser with Administrative rights.
 
-* 1
+### 1
 ![步骤1 (Step1)](images/step-1.jpg?raw=true "步骤1")
 
 Go to this address:
 http://MyServerName/Reports_MyInstanceName
 Click Site Settings link on the right.
 
-* 2
+### 2
 ![步骤2 (Step2)](images/step-2.jpg?raw=true "步骤2")
 
 Click the Security button on the left.
 
-- 3
+### 3
 ![步骤3 (Step3)](images/step-3.jpg?raw=true "步骤3")
 
 Check the box next to BUILTINAdministrators, and click ‘Edit’.
 
-- 4
+### 4
 ![步骤4 (Step4)](images/step-4.jpg?raw=true "步骤4")
 
 Select ‘System User’, and click ‘Apply’.
 
-- 5
+### 5
 ![步骤5 (Step4)](images/step-5.jpg?raw=true "步骤5")
 
 你做好了 (You're done)
