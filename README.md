@@ -1,4 +1,4 @@
-![Lee Songming](https://github.com/congmingshuju/git-resources/blob/master/images/0-clever-data-github.png "李聪明 数据")
+![Lee Songming](https://github.com/congmingshuju/git-resources/blob/master/images/0-clever-data-github.jpg "李聪明 数据")
 
 
 # SSRS安装后配置安全性
@@ -27,30 +27,30 @@ From the database server where you have installed SQL Server Reporting Services.
 
 Open the browser with Administrative rights.
 
-
-![步骤1 (Step1)](images/step-1.png?raw=true "步骤1")
+> 1
+![步骤1 (Step1)](images/step-1.jpg?raw=true "步骤1")
 
 Go to this address:
 http://MyServerName/Reports_MyInstanceName
 Click Site Settings link on the right.
 
 > 2
-![步骤2 (Step2)](images/step-2.png?raw=true "步骤2")
+![步骤2 (Step2)](images/step-2.jpg?raw=true "步骤2")
 
 Click the Security button on the left.
 
 > 3
-![步骤3 (Step3)](images/step-3.png?raw=true "步骤3")
+![步骤3 (Step3)](images/step-3.jpg?raw=true "步骤3")
 
 Check the box next to BUILTINAdministrators, and click ‘Edit’.
 
 > 4
-![步骤4 (Step4)](images/step-4.png?raw=true "步骤4")
+![步骤4 (Step4)](images/step-4.jpg?raw=true "步骤4")
 
 Select ‘System User’, and click ‘Apply’.
 
 > 5
-![步骤5 (Step4)](images/step-5.png?raw=true "步骤5")
+![步骤5 (Step4)](images/step-5.jpg?raw=true "步骤5")
 
 你做好了 (You're done)
 
