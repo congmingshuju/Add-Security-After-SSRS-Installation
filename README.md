@@ -27,7 +27,7 @@ From the database server where you have installed SQL Server Reporting Services.
 
 Open the browser with Administrative rights.
 
-> 1
+
 ![步骤1 (Step1)](images/step-1.png?raw=true "步骤1")
 
 Go to this address:
