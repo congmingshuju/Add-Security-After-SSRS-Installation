@@ -1,4 +1,4 @@
-![Lee Songming](https://github.com/congmingshuju/git-resources/blob/master/images/0-clever-data-github.jpg "李聪明 数据")
+![CLEVER DATA GIT REPO](https://github.com/congmingshuju/git-resources/blob/master/images/0-clever-data-github.png "李聪明 数据")
 
 
 # SSRS安装后配置安全性
@@ -27,7 +27,6 @@ From the database server where you have installed SQL Server Reporting Services.
 ### 1
 使用管理员权限打开浏览器。 
 Open the browser with Administrative rights.
-
 ![步骤1 (Step1)](images/step-1.jpg?raw=true "步骤1")
 
 ### 2
